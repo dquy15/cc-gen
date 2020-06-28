@@ -15,7 +15,7 @@ body {
     justify-content: center;
     height: 100px;
     margin-bottom: 30px;
-    background: url(bg.gif) #000
+    background-image: url('bg.gif') #000
   }
   .logo img {
     max-width: 200px;
