@@ -15,7 +15,7 @@ body {
     justify-content: center;
     height: 100px;
     margin-bottom: 30px;
-    background-image: url('cc.bin007.me/bg.gif') #000
+    background-image: url(bg.gif) #000
   }
   .logo img {
     max-width: 200px;
@@ -201,7 +201,7 @@ body {
     color: #4F0D54;
     background-color: #000;
     color: green;
-    background: url(https://cakhia.design/cc-gen/bg.gif) #000;
+    background: url(bg.gif) #000;
 }
 
 button,
