@@ -1,2 +1,2 @@
 # cc-gen
-bin2.cc
+https://bin2.cc
